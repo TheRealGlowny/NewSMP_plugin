@@ -1,0 +1,10 @@
+name: NewSMP_plugin2.0
+version: '2.0'
+main: NewSMP_plugin2_0
+api-version: '1.21'
+authors: [ Le Vrai Glowny ]
+description: Plugin Minecraft avec des fonctionnalités uniques pour un serveur SMP.
+commands:
+  wiki:
+    description: Affiche des instructions sur la façon d'utiliser le plugin.
+    usage: /wiki
