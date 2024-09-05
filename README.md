@@ -1,7 +1,7 @@
 # NewSMP-plugin_byglowny
 
 
-                          # Glownycorp ALL RIGHTS RESERVED 2024 (c)
+                                           # Glownycorp ALL RIGHTS RESERVED 2024 (c)
  WARNING! : DO NOT USE THE SOURCE CODE TO ONLY MODIFY THE NAME AND YOU PUBLISH IT (US version)
  ATTENTION: NE PAS UTILISER LE SOURCE CODE POUR JUSTE MODIFIER LE NOM POUR LE REPUBLIER (FR version)
  
