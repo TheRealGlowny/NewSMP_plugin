@@ -1,4 +1,12 @@
 # NewSMP-plugin_byglowny
+
+
+                          # Glownycorp ALL RIGHTS RESERVED 2024 (c)
+ WARNING! : DO NOT USE THE SOURCE CODE TO ONLY MODIFY THE NAME AND YOU PUBLISH IT (US version)
+ ATTENTION: NE PAS UTILISER LE SOURCE CODE POUR JUSTE MODIFIER LE NOM POUR LE REPUBLIER (FR version)
+ 
+
+
 Introduction
 
 NewSMP-plugin_byglowny est un plugin Minecraft innovant, conçu et développé par glowny en seulement trois jours à l'aide d'IntelliJ IDEA. Ce plugin apporte une nouvelle dimension stratégique et divertissante à vos parties de Minecraft, transformant chaque affrontement en une expérience unique et imprévisible. Si vous êtes à la recherche de fonctionnalités personnalisées pour votre serveur, n'hésitez pas à me contacter sur Discord : glowiinoh.
